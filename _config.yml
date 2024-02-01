@@ -1,0 +1,62 @@
+url: https://hivejiveio.github.io
+baseurl: /hivejive-io/
+
+# Site settings
+title: Hive Jive
+email: admin@technicallybeekeeping.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: Michael Erpenbeck
+  pic: 1
+  position: Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Jennifer Erpenbeck
+  pic: 2
+  position: Chief Product Officer (CPO)
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Anna Erpenbeck
+  pic: 3
+  position: Social Media Consultant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: github
+    url: http://github.com/TechnicallyBeekeeping
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Chicago, IL
+
+# Build settings
+markdown: kramdown
+permalink: pretty

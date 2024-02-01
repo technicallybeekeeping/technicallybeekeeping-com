@@ -1,0 +1,13 @@
+---
+title: The rich tradition of beekeeping
+subtitle: The domestication of the honey bee
+layout: default
+modal-id: 5
+date: 2023-01-06
+img: egypt.png
+thumbnail: egypt-thumbnail.jpg
+alt: image-alt
+project-date: January 2023
+topic: History
+description: Here are some pictures from my recent trip to Egypt. The hieroglyphs show honey bees providing sugar cane.  I'm sure most people on this blog post are aware that humans have been domesticating honey bees since before the Egyptians, but I think that there is something special about how often they're mentioned. As beekeepers, we are all furthering an ancient and rich tradition. 🐝
+---
