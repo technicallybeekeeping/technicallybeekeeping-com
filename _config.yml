@@ -17,8 +17,8 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://linkedin.com/in/erpenbeck
 
 - name: Jennifer Erpenbeck
   pic: 2
@@ -31,16 +31,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Anna Erpenbeck
-  pic: 3
-  position: Social Media Consultant
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -49,7 +39,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/profile.php?id=61555157813225
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/technicallybeekeeping/
   - title: github
     url: http://github.com/TechnicallyBeekeeping
 
