@@ -10,7 +10,7 @@ alt: image-alt
 project-date: January 2025
 topic: Electric Smokers
 description: |
-  As I've mentioned in my video of the [Electric Bee Smoker](https://youtu.be/Z4yzM0qAfn8), I've been working on vaporization formulas that smell like smoke. I've found that campfire smoke scents with woody undertones work well. Ash and tar-like aromas contribute to the authenticity, and oils containing liquid smoke extract are particularly effective.
+  As I've mentioned in my video of the [Electric Bee Smoker](https://youtu.be/Z4yzM0qAfn8), I've been working on vaporization formulas that smell like smoke for years. I've found that campfire smoke scents with woody undertones work well. Ash and tar-like aromas contribute to the authenticity, and oils containing liquid smoke extract are particularly effective.
 
   **Example Formulation:**
   
