@@ -15,7 +15,7 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+                            <p>{{ post.description | markdownify }}</p>
                             <ul class="list-inline item-details">
                                 <li>Date:
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
