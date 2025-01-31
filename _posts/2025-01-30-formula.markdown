@@ -9,27 +9,31 @@ thumbnail: smoker-formula-thumbnail.jpeg
 alt: image-alt
 project-date: January 2025
 topic: Electric Smokers
-description: >
-  As I've mentioned in my video of the [Electric Bee Smoker](https://youtu.be/Z4yzM0qAfn8), I've been working on vaporization formulas that smell like smoke. I've found that campfire smoke scents with woody undertones work well. Ash and tar-like aromas contribute to the authenticity, and oils containing liquid smoke extract are particularly effective.  
-
-  **Example Formulation:**  
-
-  **Ingredients:**  
-  - **60% Vegetable Glycerin (VG)** – Provides thick vapor and smoothness  
-  - **30% Propylene Glycol (PG)** – Enhances flavor and aroma diffusion  
-  - **5-10% Wood Vinegar (Pyroligneous Acid, Food-Grade Only)** – Adds an authentic smoky scent  
-  - **Optional:** 2-5 drops **Cade Oil (rectified)** or **Guaiacwood Essential Oil** – Enhances smokiness  
-
-  I've also experimented with **Vetiver Essential Oil**, which adds an earthy depth to the aroma. Additionally, **nicotine** is a known insect repellent, making me wonder whether the pipe-smoking beekeepers of the past benefited from its properties or if their breath—containing CO₂—helped disperse bees.  
-
-  Stu Taylor had an interesting invention called the **Hive Bomb**. It was an aerosol that seemed to work well on bees. His [patent](https://patents.google.com/patent/US2900300) describes the use of hardwood tars and how bees react similarly to smoke. I have heard a rumor that this product was taken off the market due to concerns in California about aerosolized tar causing cancer in humans. Some essential oil tars, like **Birch Tar**, are designed to be vaporized without carcinogenic effects and make great alternatives.  
-
-  **Criteria for Evaluating Reactions Against a Traditional Smoker:**  
-  1. Do the bees change their behavior at all?  
-  2. Does the smoke drive the bees down into the frames?  
-  3. Is there an **engorging reaction**? And how big is the reaction?  
-  4. There's a **buzz of recognition** that the whole hive does when you smoke into a box. It is a distinct noise where the majority of the bees buzz at the same time.  
-  5. Does the smoker also **mask the alarm pheromones**?  
-
-  More experiments to come! 🐝🔥
+description: As I've mentioned in my video of the Electric Bee Smoker, I've been working on vaporization formulas that smell like smoke. I've found that campfire smoke scents with woody undertones work well. Ash and tar-like aromas contribute to the authenticity, and oils containing liquid smoke extract are particularly effective.
 ---
+
+# Experimenting with Vaporization Formulas for Smoky Scents
+
+As I've mentioned in my video of the [Electric Bee Smoker](https://youtu.be/Z4yzM0qAfn8), I've been working on vaporization formulas that smell like smoke. I've found that campfire smoke scents with woody undertones work well. Ash and tar-like aromas contribute to the authenticity, and oils containing liquid smoke extract are particularly effective.
+
+## Example Formulation:
+
+### Ingredients:
+- **60% Vegetable Glycerin (VG)** – Provides thick vapor and smoothness  
+- **30% Propylene Glycol (PG)** – Enhances flavor and aroma diffusion  
+- **5-10% Wood Vinegar (Pyroligneous Acid, Food-Grade Only)** – Adds an authentic smoky scent  
+- **Optional:** 2-5 drops **Cade Oil (rectified)** or **Guaiacwood Essential Oil** – Enhances smokiness  
+
+I've also experimented with **Vetiver Essential Oil**, which adds an earthy depth to the aroma. Additionally, **nicotine** is a known insect repellent, making me wonder whether the pipe-smoking beekeepers of the past benefited from its properties or if their breath—containing CO₂—helped disperse bees.  
+
+Stu Taylor had an interesting invention called the **Hive Bomb**. It was an aerosol that seemed to work well on bees. His [patent](https://patents.google.com/patent/US2900300) describes the use of hardwood tars and how bees react similarly to smoke. I have heard a rumor that this product was taken off the market due to concerns in California about aerosolized tar causing cancer in humans. Some essential oil tars, like **Birch Tar**, are designed to be vaporized without carcinogenic effects and make great alternatives.
+
+## Criteria for Evaluating Reactions Against a Traditional Smoker:
+
+1. Do the bees change their behavior at all?  
+2. Does the smoke drive the bees down into the frames?  
+3. Is there an **engorging reaction**? And how big is the reaction?  
+4. There's a **buzz of recognition** that the whole hive does when you smoke into a box. It is a distinct noise where the majority of the bees buzz at the same time.  
+5. Does the smoker also **mask the alarm pheromones**?  
+
+More experiments to come! 🐝🔥
