@@ -15,14 +15,16 @@ description: |
   **Example Formulation:**
   
   **Ingredients:**  
-  - **60% Vegetable Glycerin (VG)** – Provides thick vapor and smoothness  
-  - **30% Propylene Glycol (PG)** – Enhances flavor and aroma diffusion  
+  - **Vegetable Glycerin (VG)** – Provides thick vapor and smoothness  
   - **5-10% Wood Vinegar (Pyroligneous Acid, Food-Grade Only)** – Adds an authentic smoky scent  
   - **Optional:** 2-5 drops **Cade Oil (rectified)** or **Guaiacwood Essential Oil** – Enhances smokiness  
 
   I've also experimented with **Vetiver Essential Oil**, which adds an earthy depth to the aroma. Additionally, **nicotine** is a known insect repellent, making me wonder whether the pipe-smoking beekeepers of the past benefited from its properties or if their breath—containing CO₂—helped disperse bees.  
 
   Stu Taylor had an interesting invention called the **Hive Bomb**. It was an aerosol that seemed to work well on bees. His [patent](https://patents.google.com/patent/US2900300) describes the use of hardwood tars and how bees react similarly to smoke. I have heard a rumor that this product was taken off the market due to concerns in California about aerosolized tar causing cancer in humans. Some essential oil tars, like **Birch Tar**, are designed to be vaporized without carcinogenic effects and make great alternatives.
+
+  NOTE: Originally I used Propylene Glycol (PG), which is commonly used in vaping and commercial products for enhances flavor and aroma diffusion. After reading [this research](https://pubmed.ncbi.nlm.nih.gov/38000305/) on the affects of glycol overtime to honey bees, I no longer feel comfortable using PG with bees.
+
 
   **Criteria for Evaluating Reactions Against a Traditional Smoker:**  
   1. Do the bees change their behavior at all?  
